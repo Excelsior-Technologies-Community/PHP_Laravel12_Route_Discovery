@@ -267,3 +267,8 @@ PHP_Laravel12_Route_Discovery/
 ---
 
 Your PHP_Laravel12_Route_Discovery Project is now ready!
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> development
